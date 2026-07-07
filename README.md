@@ -73,32 +73,7 @@ Tools
 
 A personalized travel itinerary platform featuring destination recommendations, crowd insights, booking support, and cost estimation.
 
-Tech: HTML • CSS • JavaScript • MySQL
-
-⸻
-
-🎓 Quality Education & Employment Platform
-
-A web platform connecting underserved communities with educational resources and employment opportunities.
-
-Tech: HTML • CSS • JavaScript • MySQL
-
-⸻
-
-🌍 Digital Divide
-
-An offline education platform delivering learning content in regional languages for rural communities.
-
-Tech: Hybrid Web & Mobile
-
-⸻
-
-🏆 Smart Tourist Guide
-
-Built during the Technova Hackathon.
-
-Location-aware tourist recommendation platform developed within the hackathon timeline.
-
+Tech: HTML • CSS • JavaScript • MySql
 ⸻
 
 📈 GitHub Stats
