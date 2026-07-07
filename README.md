@@ -99,15 +99,3 @@ Tech: HTML • CSS • JavaScript • MySql
 📫 Connect With Me
 
 📧 Email: lalarohithgoyal@gmail.com
-
-💻 GitHub: https://github.com/lalarohit
-
-⸻
-
-💬 Quote
-
-“Turning data into meaningful insights, one project at a time.”
-
-⸻
-
-⭐ If you like my projects, don’t forget to Star my repositories!
