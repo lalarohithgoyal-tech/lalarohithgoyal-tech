@@ -70,6 +70,8 @@ Tools
 📂 Featured Projects
 
 1.credit card fraud detection
+
+
 2.FinsightAi 
 
 
