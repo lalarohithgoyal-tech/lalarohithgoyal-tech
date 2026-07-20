@@ -69,9 +69,9 @@ Tools
 
 📂 Featured Projects
 
-✈️ Yatra Vibe
+1.credit card fraud detection
+2.FinsightAi 
 
-A personalized travel itinerary platform featuring destination recommendations, crowd insights, booking support, and cost estimation.
 
 Tech: HTML • CSS • JavaScript • MySql
 ⸻
